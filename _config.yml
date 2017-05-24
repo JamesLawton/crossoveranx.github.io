@@ -1,0 +1,25 @@
+title: A Journey to Germany
+description: An account and guide of traveling and living as an ex-pat in Germany.
+show_downloads: true
+google_analytics:
+# cayman-blog date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+theme:
+
+# social
+author: "James Lawton"
+image: 
+twitter:
+  username: crossoveranx
+#  site:
+facebook:
+  publisher: james lawton
+  profile_id: 
+  app_id: 
+#  admins:
+
+gems:
+  - jekyll-seo-tag
