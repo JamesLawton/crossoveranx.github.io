@@ -7,6 +7,13 @@ google_analytics:
 cayman-blog:
   date_format: "%b %-d, %Y"
 
+gems:
+  - jekyll-seo-tag
+gems:
+  - jekyll-analytics
+GoogleAnalytics:
+	id: UA-80371043-3
+
 theme:
 
 # social
@@ -21,5 +28,5 @@ facebook:
   app_id: 
 #  admins:
 
-gems:
-  - jekyll-seo-tag
+
+	

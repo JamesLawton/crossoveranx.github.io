@@ -22,13 +22,13 @@ You've found a program, applied, perhaps had an interview, and got your admissio
 
 ## Before you Go
 
-###Health Insurance 
+### Health Insurance 
 German universities require a confirmation that you are insured in Germany in order to be officially enrolled. Many private health insurance companies, but I would strongly NOT recommend these as they are very specific in what they cover. The two main health insurances that I would recommend are [AOK](https://www.aok.de/) and [TK](https://www.tk.de/), which are both relatively affordable. E-mail a representative at those companies and explain when you are arriving and when you need the insurance to start - they are very familiar with this process and will help expedite your request rather than signing up online without an initial e-mail.
 
-###Visa Process 
+### Visa Process 
 Here's where other nationalities experience will differ significantly.  Many websites recommend to apply for a visa in your home country, no exceptions. If you are from one of [these](http://www.germany-visa.org/do-i-need-a-visa/) countries, apply for a visa as soon as you get your acceptance letter. I've had classmates that missed the first month of school due to visa issues. I found from my personal experience and speaking with others, that you can simply apply for the visa in Germany. You have a 90 day grace period in order to obtain your residency and visa, and this was certainly feasible during this time.
 
-###Bank Account (Abroad and Domestic)
+### Bank Account (Abroad and Domestic)
 Ever heard of Oktoberfest? You would not believe how fast the jubilance of a day spent dancing on tables can come crashing down as an ATM takes your only credit card. Before you leave for Deustchland, contact your domestic bank to ensure that they know you are moving abroad and ask about any offers for international cards - this will make your transition significantly easier.
 
 Furthermore, do some research on competent banks in the city you are moving to, along with contacting a representative of your desired bank. To open a bank account in Germany, you need a plethora of documentation - many of which has to be acquired in a specific order. Inform them of your needs, ask about any student accounts, and also schedule an appointment to ensure that you can get an account on your first visit. When you first arrive in DE, you will be bombarded with a whirlwind of tasks and having a bank account with a debit card will go a long way to reduce your stress.
