@@ -7,16 +7,18 @@ google_analytics:
 cayman-blog:
   date_format: "%b %-d, %Y"
 
-gems:
-  - jekyll-seo-tag
+
 gems:
   - jekyll-analytics
-GoogleAnalytics:
-	id: UA-80371043-3
 
-theme:
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-80371043-3          
 
-# social
+gems:
+  - jekyll-seo-tag
+
+# social:
 author: "James Lawton"
 image: 
 twitter:
@@ -25,8 +27,4 @@ twitter:
 facebook:
   publisher: james lawton
   profile_id: 
-  app_id: 
-#  admins:
-
-
-	
+  app_id:
