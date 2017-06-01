@@ -1,16 +1,9 @@
 title: A Journey to Germany
 description: An account and guide of traveling and living as an ex-pat in Germany.
 show_downloads: true
+google_analytics: UA-80371043-3
 cayman-blog:
   date_format: "%b %-d, %Y"
-
-
-gems:
-  - jekyll-analytics
-
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-80371043-3
 
 gems:
   - jekyll-seo-tag
