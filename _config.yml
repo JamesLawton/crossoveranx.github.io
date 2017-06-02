@@ -18,3 +18,6 @@ facebook:
   publisher: james lawton
   profile_id: 
   app_id:
+
+gems:
+  - jekyll-sitemap
