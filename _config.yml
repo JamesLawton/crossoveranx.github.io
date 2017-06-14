@@ -8,6 +8,9 @@ cayman-blog:
 gems:
   - jekyll-seo-tag
 
+gems:
+  - jekyll-sitemap
+
 # social:
 author: "James Lawton"
 image:
@@ -19,5 +22,3 @@ facebook:
   profile_id: 
   app_id:
 
-gems:
-  - jekyll-sitemap

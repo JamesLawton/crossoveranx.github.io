@@ -33,7 +33,30 @@ Ever heard of Oktoberfest? You would not believe how fast the jubilance of a day
 
 Furthermore, do some research on competent banks in the city you are moving to, along with contacting a representative of your desired bank. To open a bank account in Germany, you need a plethora of documentation - many of which has to be acquired in a specific order. Inform them of your needs, ask about any student accounts, and also schedule an appointment to ensure that you can get an account on your first visit. When you first arrive in DE, you will be bombarded with a whirlwind of tasks and having a bank account with a debit card will go a long way to reduce your stress.
 
-Accommodation - 
+Oh, by the way. Banks close at 12 on Fridays. You've been warned.
+
+### Accommodation
+I highly suggest looking for an apartment before you move. Having a place to live when you arrive will ease your mind immensely. Use sites like [WG](http://www.wg-gesucht.de/) and [Immobilienscout](https://www.immobilienscout24.de/) in order to hunt for apartments. I live in one of the most competitive housing markets in all of Germany, so I have a few tips that helped secure my room. Whenever you send a message include financial information, how neat/organized you are, you have no pets, and when you are arriving. These alone will get you farther than most when hunting for places to call home. One more thing, there is a LOT of scams for the housing market in Germany. Be very aware of sending any money before meeting somebody or links sent to an AirBnB listing. These are big red flags so be on your guard.
+
+### Purge
+No, I don't mean one night a year of a malevolent crime spree. I bet you've been hoarding quite a few things you haven't let go of yet. That shirt from high school? Yeah, I think that has met its end. Pack up everything you'd like to keep in storage or with somebody who will take care of it and take only the essentials. Seriously, you can always get more items over here, but lugging around three suitcases throughout your first few months here will slow you down. Also, it's strangely therapeutic having your entire life in a backpack.
+
+### Find your City Administration Building
+In order to achieve official residency in Germany, you must register at a Kreisverwaltungsreferat. This particular name is only relevant to Munich, in other areas of Germany the building can be named Ordnungsbehörde or Ausländeramt, among others. Once you have found the name of the building in your city, make sure you know the location of it in relation to your apartment. This will be critical to get documentation that proves that you legally reside in Germany now. Also, go as early in the day as you can, as these buildings are even more packed and slow than the DMV
+
+### Learn some German
+I would highly recommend taking a basic course in Germany before you come. Many Germans speak some English, but it always seems the person you need the most, speaks absolutely none. I spent about thirty minutes communicating in nothing more than hand gestures and interpretive dance to try to ask if this man knew where my street was. It *really* would have helped if I knew at the time that 'W' was pronounced with a 'V'. Even having an absolute basic foundation will help immensely during your time here. If you can't attend a full blown course, apps like [Duolingo](https://www.duolingo.com/) and [Busuu](https://www.busuu.com/) are great starter points.
+
+## Once you arrive
+As a mentioned before, Germans have a very structured way of doing things. You can't get this document before you've went here, you can't have an appointment until a referral, and you can't have your pretzel until you've had a Weissbier... wait, what?
+
+My personal recommendation for a sequential order is upon arrival in Germany:
+
+Leave your luggage at flat/hostel > Get your student ID > go to a Kreisverwaltungsreferat (City Administration Office) > Sleep > Attend your bank meeting to open a bank account > Explore.
+
+It seems simple, and yet doing it out of order is a huge headache and bound to cause frustration, especially when you only have a limited amount of time before the semester starts. 
+
+Please send me a message if you have anything else you think I should add or that differs from your experience. 
 
 
 
