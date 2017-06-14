@@ -2,7 +2,7 @@
 layout: post
 title: "How to get into University in Germany - First Hand Experience"
 categories: misc
-published:false
+published: false
 ---
 
 Free. Tuition. These are the two words that have droves of eager students coming from all over the world to Germany. What's not to like? Germany boasts a first class education recognizable all over the world, an experience abroad like no other (see - castles), and a healthcare system that makes me *want* to get sick. Dreaming about this experience and actually attending though, are entirely different things. I know that I was thoroughly unprepared for the adventure - even after reading countless articles and guides that I thought would ensure my initial success. My goal is to provide an account for others that are looking into Germany as an option for university from somebody who has experienced it first hand.
